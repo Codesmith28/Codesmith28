@@ -1,6 +1,9 @@
 ### Hello there 👋
 My Codeforces profile : https://codeforces.com/profile/Codesmith28 <br>
-My Codechef profile : https://www.codechef.com/users/Codesmith28
+My Codechef profile : https://www.codechef.com/users/Codesmith28 <br>
+📫 How to reach me: <br>
+  > sarthaksiddhpura@gmail.com
+  > sarthak.s1@ahduni.edu.in
 
 
 <!--
@@ -13,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
