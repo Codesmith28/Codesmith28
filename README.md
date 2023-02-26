@@ -2,8 +2,8 @@
 My Codeforces profile : https://codeforces.com/profile/Codesmith28 <br>
 My Codechef profile : https://www.codechef.com/users/Codesmith28 <br>
 📫 How to reach me: <br>
-  > sarthaksiddhpura@gmail.com
-  > sarthak.s1@ahduni.edu.in
+  > sarthaksiddhpura@gmail.com <br>
+  > sarthak.s1@ahduni.edu.in <br>
 
 
 <!--
