@@ -5,8 +5,8 @@ My Codechef profile : https://www.codechef.com/users/Codesmith28 <br> <br>
   > sarthaksiddhpura@gmail.com <br>
   > sarthak.s1@ahduni.edu.in <br>
 
-![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg)
+![](https://raw.githubusercontent.com/Codesmith28/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Codesmith28/cf-stats/main/output/light_card.svg)
 ![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg)
 ![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)
 
