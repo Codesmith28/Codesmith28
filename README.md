@@ -6,7 +6,7 @@ My Codechef profile : https://www.codechef.com/users/codesmith_28 <br> <br>
   - sarthaksiddhpura@gmail.com <br>
   - sarthak.s1@ahduni.edu.in <br>
   
-![](https://komarev.com/ghpvc/?username=Codesmith28&color=ff0000)
+![](https://komarev.com/ghpvc/?username=Codesmith28&color=a371f7)
 
 ![](https://raw.githubusercontent.com/Codesmith28/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 
