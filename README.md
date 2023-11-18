@@ -1,4 +1,4 @@
-## Hello there 👋
+# Hello there 👋
 My LeetCode profile : https://leetcode.com/Codesmith28/ <br>
 My Codeforces profile : https://codeforces.com/profile/Codesmith28 <br><br>
 📫 How to reach me: <br>
