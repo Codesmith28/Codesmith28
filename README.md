@@ -6,6 +6,7 @@ My Codeforces profile : https://codeforces.com/profile/Codesmith28 <br><br>
   - sarthak.s1@ahduni.edu.in <br>
   
 ![](https://komarev.com/ghpvc/?username=Codesmith28&color=blueviolet)
+
 <!--
 ![](https://raw.githubusercontent.com/Codesmith28/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 **Codesmith28/Codesmith28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
