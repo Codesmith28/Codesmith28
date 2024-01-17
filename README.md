@@ -5,7 +5,7 @@ My Codeforces profile : https://codeforces.com/profile/Codesmith28 <br><br>
   - sarthaksiddhpura@gmail.com <br>
   - sarthak.s1@ahduni.edu.in <br>
 
-Contact me on telegram: ![@Codesmith28](t.me/Codesmith28)
+Contact me on telegram:  <a href="https://telegram.me/jeelrajodiya/" title="telegram"><img src="https://github.com/get-icon/geticon/raw/master/icons/telegram.svg" alt="telegram" width="21px" height="21px"></a> [@Codesmith28](t.me/Codesmith28)
   
 ![](https://komarev.com/ghpvc/?username=Codesmith28&color=blueviolet)
 
