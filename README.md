@@ -4,6 +4,8 @@ My Codeforces profile : https://codeforces.com/profile/Codesmith28 <br><br>
 📫 How to reach me: <br>
   - sarthaksiddhpura@gmail.com <br>
   - sarthak.s1@ahduni.edu.in <br>
+
+Contact me on telegram: ![@Codesmith28](t.me/Codesmith28)
   
 ![](https://komarev.com/ghpvc/?username=Codesmith28&color=blueviolet)
 
