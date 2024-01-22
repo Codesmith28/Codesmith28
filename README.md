@@ -1,13 +1,18 @@
 # Hello there 👋
-My LeetCode profile : https://leetcode.com/Codesmith28/ <br>
-My Codeforces profile : https://codeforces.com/profile/Codesmith28 <br><br>
-📫 How to reach me: <br>
-  - sarthaksiddhpura@gmail.com <br>
-  - sarthak.s1@ahduni.edu.in <br>
+Checkout my portfolio: [Portfolio](https://sarthak28.vercel.app/)
 
-Contact me on telegram:  <a href="https://telegram.me/jeelrajodiya/" title="telegram"><img src="https://github.com/get-icon/geticon/raw/master/icons/telegram.svg" alt="telegram" width="21px" height="21px"></a> [@Codesmith28](t.me/Codesmith28)
-  
-![](https://komarev.com/ghpvc/?username=Codesmith28&color=blueviolet)
+My LeetCode profile: [LeetCode/Codesmith28](https://leetcode.com/Codesmith28/)
+My Codeforces profile: [Codeforces/Codesmith28](https://codeforces.com/profile/Codesmith28)
+
+📫 How to reach me:
+- Email: sarthaksiddhpura@gmail.com
+- University Email: sarthak.s1@ahduni.edu.in
+
+Contact me on Telegram: [@Codesmith28](https://telegram.me/jeelrajodiya/)
+<br/>
+<br/>
+![Profile Views](https://komarev.com/ghpvc/?username=Codesmith28&color=blueviolet)
+
 
 <!--
 ![](https://raw.githubusercontent.com/Codesmith28/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
