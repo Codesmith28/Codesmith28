@@ -1,8 +1,10 @@
 # Hello there 👋
 Checkout my portfolio: [Portfolio](https://sarthak28.vercel.app/)
 
-My LeetCode profile: [LeetCode/Codesmith28](https://leetcode.com/Codesmith28/)
+My LeetCode profile: [LeetCode/Codesmith28](https://leetcode.com/Codesmith28/) <br/>
 My Codeforces profile: [Codeforces/Codesmith28](https://codeforces.com/profile/Codesmith28)
+
+I use arch btw, checkout my configs here: [configs](https://github.com/Codesmith28/archConfig)
 
 📫 How to reach me:
 - Email: sarthaksiddhpura@gmail.com
