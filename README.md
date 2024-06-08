@@ -14,7 +14,7 @@ Contact me on Telegram: [@Codesmith28](https://telegram.me/jeelrajodiya/)
 <br/>
 <br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=Codesmith28&color=blueviolet)
-
+[![wakatime](https://wakatime.com/badge/user/1452ec26-7bdb-42b7-91cc-18975f5e46bd.svg)](https://wakatime.com/@1452ec26-7bdb-42b7-91cc-18975f5e46bd)
 
 <!--
 ![](https://raw.githubusercontent.com/Codesmith28/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
