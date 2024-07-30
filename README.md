@@ -1,9 +1,9 @@
 # Hello there 👋
 Checkout my portfolio: [Portfolio](https://sarthak28.vercel.app/)
 
-My LeetCode profile: [LeetCode/Codesmith28](https://leetcode.com/Codesmith28/) <br/>
-My Codeforces profile: [Codeforces/Codesmith28](https://codeforces.com/profile/Codesmith28) <br/>
-My Codechef profile: [Codechef/codesmith_28](https://www.codechef.com/users/codesmith_28)
+[LeetCode](https://leetcode.com/Codesmith28/) | 
+[Codeforces](https://codeforces.com/profile/Codesmith28) | 
+[Codechef](https://www.codechef.com/users/codesmith_28) 
 
 I use arch btw, checkout my configs here: [configs](https://github.com/Codesmith28/archConfig)
 
