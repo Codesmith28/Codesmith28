@@ -7,13 +7,6 @@ Checkout my portfolio: [Portfolio](https://sarthak28.vercel.app/)
 
 I use arch btw, checkout my configs here: [configs](https://github.com/Codesmith28/archConfig)
 
-📫 How to reach me:
-- Email: sarthaksiddhpura@gmail.com
-- University Email: sarthak.s1@ahduni.edu.in
-
-Contact me on Telegram: [@Codesmith28](https://telegram.me/jeelrajodiya/)
-<br/>
-<br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=Codesmith28&color=blueviolet)
 [![wakatime](https://wakatime.com/badge/user/1452ec26-7bdb-42b7-91cc-18975f5e46bd.svg)](https://wakatime.com/@1452ec26-7bdb-42b7-91cc-18975f5e46bd)
 
