@@ -16,6 +16,7 @@ https://github.com/Codesmith28/archConfig
 
 [![WakaTime](https://wakatime.com/badge/user/1452ec26-7bdb-42b7-91cc-18975f5e46bd.svg)](https://wakatime.com/@1452ec26-7bdb-42b7-91cc-18975f5e46bd)
 
+Coding Activity
 
 ![WakaTime](https://wakatime.com/share/@Codesmith28/807765d6-443d-49ee-9415-6451462ff6d2.svg)
 
